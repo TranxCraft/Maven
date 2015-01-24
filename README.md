@@ -3,6 +3,7 @@ This maven repository is used to store all of the files that aren't available on
 
 ## How to use
 In order to use this repository in maven, include the following repository:
+
     <repository>
             <id>tranxcraft-repo</id>
             <url>https://github.com/TranxCraft/Maven/raw/master/</url>
